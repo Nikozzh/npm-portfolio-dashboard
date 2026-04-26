@@ -1,0 +1,80 @@
+MilestoneID,ProjectID,MilestoneName,PlannedDate,ActualDate,Status
+MS-001,PRJ-001,Equipment ordered,2024-11-30,2024-12-05,Completed
+MS-002,PRJ-001,Installation complete,2025-08-31,2025-10-15,Completed
+MS-003,PRJ-001,Commissioning & sign-off,2025-12-15,2026-02-28,Completed
+MS-004,PRJ-002,Design freeze,2025-02-28,2025-03-08,Completed
+MS-005,PRJ-002,Equipment installed,2025-06-30,2025-07-04,Completed
+MS-006,PRJ-002,Performance validated,2025-08-30,2025-09-12,Completed
+MS-007,PRJ-003,Vendor selection,2025-04-30,2025-05-12,Completed
+MS-008,PRJ-003,Pilot deployment,2025-10-31,2025-12-04,Completed
+MS-009,PRJ-003,User training complete,2026-02-28,,In Progress
+MS-010,PRJ-003,Go-live pilot site,2026-03-31,,Delayed
+MS-011,PRJ-004,Camera system specified,2025-05-31,2025-06-04,Completed
+MS-012,PRJ-004,Model trained on dataset,2025-11-30,2025-12-22,Completed
+MS-013,PRJ-004,Production trial,2026-04-30,,In Progress
+MS-014,PRJ-004,Full deployment,2026-06-30,,Pending
+MS-015,PRJ-005,Material samples received,2025-04-30,2025-05-05,Completed
+MS-016,PRJ-005,Trial moulds run,2025-08-31,2025-09-10,Completed
+MS-017,PRJ-005,Customer approval,2025-11-30,2025-12-08,Completed
+MS-018,PRJ-006,Design approved,2025-08-31,2025-09-15,Completed
+MS-019,PRJ-006,Construction phase 1,2026-02-28,2026-03-12,Completed
+MS-020,PRJ-006,Equipment install,2026-07-31,,In Progress
+MS-021,PRJ-006,Validation & sign-off,2026-09-30,,Pending
+MS-022,PRJ-007,Data sources mapped,2025-09-30,2025-10-08,Completed
+MS-023,PRJ-007,Reports built,2025-12-31,2026-01-22,Completed
+MS-024,PRJ-007,Rollout complete,2026-02-28,2026-03-15,Completed
+MS-025,PRJ-008,Internal audit,2025-09-30,2025-10-04,Completed
+MS-026,PRJ-008,CAPA closure,2025-12-31,2026-01-08,Completed
+MS-027,PRJ-008,Certification renewed,2026-01-31,2026-02-10,Completed
+MS-028,PRJ-009,Baseline measured,2025-10-31,2025-11-04,Completed
+MS-029,PRJ-009,Cooling redesign,2026-02-28,2026-03-04,Completed
+MS-030,PRJ-009,Validation complete,2026-05-31,,In Progress
+MS-031,PRJ-010,Data integration,2025-11-30,2026-01-12,Completed
+MS-032,PRJ-010,Site 1 dashboard live,2026-02-28,2026-03-22,Completed
+MS-033,PRJ-010,Site 2 & 3 rollout,2026-04-30,,Delayed
+MS-034,PRJ-011,Cell layout finalized,2025-12-31,2026-01-18,Completed
+MS-035,PRJ-011,Robot installed,2026-04-30,,In Progress
+MS-036,PRJ-011,First article approved,2026-08-31,,Pending
+MS-037,PRJ-012,Scrap baseline analysis,2026-01-31,2026-02-10,Completed
+MS-038,PRJ-012,Process changes piloted,2026-04-30,,In Progress
+MS-039,PRJ-012,Target reduction achieved,2026-07-31,,Pending
+MS-040,PRJ-013,SPC tooling deployed,2025-12-31,2026-01-20,Completed
+MS-041,PRJ-013,Operator training,2026-03-31,2026-04-04,Completed
+MS-042,PRJ-013,Full line coverage,2026-06-30,,In Progress
+MS-043,PRJ-014,Sensor inventory,2026-02-28,2026-03-08,Completed
+MS-044,PRJ-014,Platform deployed,2026-06-30,,In Progress
+MS-045,PRJ-014,First alert validated,2026-09-30,,Pending
+MS-046,PRJ-014,Full rollout,2026-11-30,,Pending
+MS-047,PRJ-015,Site survey complete,2026-03-31,2026-04-04,Completed
+MS-048,PRJ-015,Feasibility report,2026-05-31,,In Progress
+MS-049,PRJ-016,Permits secured,2025-10-31,2025-12-08,Completed
+MS-050,PRJ-016,Panels installed,2026-02-28,2026-04-12,Completed
+MS-051,PRJ-016,Grid connection live,2026-04-30,,Delayed
+MS-052,PRJ-017,Equipment specified,2026-04-30,,In Progress
+MS-053,PRJ-017,Procurement complete,2026-07-31,,Pending
+MS-054,PRJ-017,Installed & validated,2026-10-31,,Pending
+MS-055,PRJ-018,Requirements gathering,2025-11-30,2025-12-12,Completed
+MS-056,PRJ-018,Module configured,2026-04-30,2026-04-22,Completed
+MS-057,PRJ-018,UAT complete,2026-08-31,,In Progress
+MS-058,PRJ-018,Go-live,2026-12-31,,Pending
+MS-059,PRJ-019,Vendor selection,2026-05-31,,In Progress
+MS-060,PRJ-019,Equipment delivered,2026-11-30,,Pending
+MS-061,PRJ-019,Commissioning,2027-02-28,,Pending
+MS-062,PRJ-020,Loop design,2025-12-31,2026-01-22,Completed
+MS-063,PRJ-020,Procurement,2026-03-31,,On Hold
+MS-064,PRJ-020,Installation,2026-06-30,,On Hold
+MS-065,PRJ-021,Cobot specified,2026-03-31,2026-04-04,Completed
+MS-066,PRJ-021,Cell installed,2026-09-30,,In Progress
+MS-067,PRJ-021,Validation,2026-12-31,,Pending
+MS-068,PRJ-022,Tolerance study,2026-02-28,2026-03-12,Completed
+MS-069,PRJ-022,Process changes,2026-05-31,,In Progress
+MS-070,PRJ-022,Final validation,2026-08-31,,Pending
+MS-071,PRJ-023,Twin platform selected,2026-04-30,,In Progress
+MS-072,PRJ-023,First mould modeled,2026-09-30,,Pending
+MS-073,PRJ-023,Validation against real,2027-01-31,,Pending
+MS-074,PRJ-024,Line redesign,2025-09-30,2025-10-18,Completed
+MS-075,PRJ-024,New equipment installed,2026-01-31,2026-02-22,Completed
+MS-076,PRJ-024,Production validated,2026-03-31,,Delayed
+MS-077,PRJ-025,Audit framework,2026-05-31,,In Progress
+MS-078,PRJ-025,Tier 1 audits complete,2026-08-31,,Pending
+MS-079,PRJ-025,Programme review,2026-11-30,,Pending

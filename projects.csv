@@ -1,0 +1,26 @@
+ProjectID,ProjectName,StrategicPillar,BusinessUnit,Owner,StartDate,PlannedEndDate,ActualEndDate,BudgetDKK,ActualSpendDKK,Status,CompletionPercent,Priority
+PRJ-001,Hall 3 Capacity Expansion - Phase 1,Capacity Expansion,AC,Lars Pedersen,2024-09-01,2025-12-15,2026-02-28,7500000,8120000,Completed,100,High
+PRJ-002,Energy Recovery System Hall 1,Sustainability,AC,Mette Sørensen,2024-11-01,2025-08-30,2025-09-12,2400000,2380000,Completed,100,Medium
+PRJ-003,MES Implementation - Pilot Site,Digital Transformation,AC,Anders Nielsen,2025-01-15,2026-03-31,,3200000,3650000,At Risk,82,High
+PRJ-004,Defect Detection AI - Vision System,Quality Improvement,MD,Sofie Lund,2025-03-01,2026-06-30,,1800000,1450000,In Progress,75,High
+PRJ-005,Recycled Polymer Qualification,Sustainability,IS,Jonas Bach,2025-02-01,2025-11-30,2025-12-08,950000,920000,Completed,100,Medium
+PRJ-006,Cleanroom Upgrade - Medical Hall,Capacity Expansion,MD,Sofie Lund,2025-05-01,2026-09-30,,4200000,3100000,In Progress,68,High
+PRJ-007,Power BI Reporting Rollout,Digital Transformation,IS,Christian Holm,2025-06-01,28/02/2026,2026-03-15,480000,510000,Completed,100,Medium
+PRJ-008,ISO 13485 Recertification,Quality Improvement,MD,Henriette Vang,2025-04-01,2026-01-31,2026-02-10,350000,340000,Completed,100,High
+PRJ-009,Mould Cooling Optimization,Sustainability,AC,Lars Pedersen,2025-08-01,2026-05-31,,620000,580000,In Progress,85,Medium
+PRJ-010,OEE Dashboard - All Sites,Digital Transformation,AC,Anders Nielsen,2025-09-01,2026-04-30,,720000,890000,At Risk,70,High
+PRJ-011,Robotic De-flashing Cell - Hall 2,Capacity Expansion,IS,Jonas Bach,2025-10-01,2026-08-31,,3800000,2200000,In Progress,55,Medium
+PRJ-012,Scrap Reduction Initiative - AC,Sustainability,AC,Mette Sørensen,2025-11-01,2026-07-31,,420000,310000,In Progress,62,Medium
+PRJ-013,SPC Rollout - Medical Lines,Quality Improvement,MD,Henriette Vang,2025-09-15,2026-06-30,,560000,490000,In Progress,72,High
+PRJ-014,Predictive Maintenance Platform,Digital Transformation,AC ,Christian Holm,2025-12-01,2026-11-30,,2100000,980000,In Progress,42,High
+PRJ-015,Hall 4 Greenfield - Feasibility,Capacity Expansion,MD,Anders Nielsen,2026-01-15,2026-05-31,,450000,380000,In Progress,78,High
+PRJ-016,Solar PV Installation - Site Sønderborg,Sustainability,IS,Mette Sørensen,2025-07-01,2026-04-30,,5200000,6100000,At Risk,88,Medium
+PRJ-017,Quality Lab Equipment Refresh,Quality Improvement,IS, Henriette Vang,2026-02-01,2026-10-31,,890000,120000,In Progress,18,Low
+PRJ-018,ERP Module - Production Planning,Digital Transformation,MD,Christian Holm,2025-08-15,2026-12-31,,3400000,2850000,In Progress,60,High
+PRJ-019,Material Handling Automation - AC,Capacity Expansion,AC,Lars Pedersen,2026-03-01,2027-02-28,,2600000,180000,In Progress,12,Medium
+PRJ-020,Water Recycling Loop - Hall 1,Sustainability,AC,Jonas Bach,2025-10-15,2026-06-30,,780000,520000,On Hold,35,Low
+PRJ-021,Cobot Assembly Cell - Medical,Capacity Expansion,MD,Sofie Lund,2026-01-01,2026-12-31,,1900000,410000,In Progress,28,Medium
+PRJ-022,Statistical Tolerance Engineering,Quality Improvement,AC,Henriette Vang,2025-11-15,2026-08-31,,340000,290000,In Progress,65,Medium
+PRJ-023,Digital Twin - Mould Design,Digital Transformation,IS,Anders Nielsen,2026-02-15,2027-01-31,,1500000,220000,In Progress,22,High
+PRJ-024,Packaging Line Conversion,Capacity Expansion,IS,Jonas Bach,2025-06-15,2026-03-31,,1100000,1340000,At Risk,95,Medium
+PRJ-025,Supplier Quality Audit Programme,Quality Improvement,AC,Mette Sørensen,2026-03-15,2026-11-30,,280000,85000,In Progress,25,Low
