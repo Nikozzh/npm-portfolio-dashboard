@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27099073/README.md)
 # Portfolio Dashboard of NPM
 
 I made this Power BI dashboard over a weekend as an opportunity to explore how to use the application. Although the data I am using is fictional, the dashboard itself is real.
@@ -22,8 +21,15 @@ There are three pages that include information about 25 fictitious projects of a
 - Conditional Formatting was applied in three ways including rules, gradient, and fx-based
 - A two-table data model was created with a one-to-many relationship between projects and milestones
 
+## Power Apps companion
+
+A small Power App that connects to the same project data has also been built, it uses the same Excel workbook as the Power BI dashboard.
+
+![Power App](powerapps.png)
+
 ## Files
 
 - `NPM_PortfolioManagement.pbix` — Open in Power BI Desktop
 - `projects.csv`, `milestones.csv` — Source data
-- `page1_overview.png`, `page2_health.png`, `page3_financial.png` — Screenshots
+- `page1_overview.png`, `page2_health.png`, `page3_financial.png` — Power BI screenshots
+- `powerapps.png` — Power App screenshot
